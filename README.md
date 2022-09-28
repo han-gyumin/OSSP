@@ -1,5 +1,2 @@
 # OSSP
-
-Hello WOrld!
-hihihihihihi
-byebyebyebyebye
+A
